@@ -27,6 +27,8 @@
    위의 babel은 script는 script 태그에서 type=text/babel 성질을 추가하면 JSX를 사용할 수 있습니다. 
 
 4. rcc 형식을 사용하여 밑에처럼 양식을 만들어서 웹사이트 react를 구현한다 자세한 사항은 index1.html을 보면 알 수 있습니다. 
+        
+        
         class WrapComponent extends React.Component{
             render() {
                 return (
